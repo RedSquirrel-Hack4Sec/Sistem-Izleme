@@ -1,0 +1,12 @@
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\ORJ\sistem izleme\WindowsApplication14\bin\Debug\Red Squirrel - Hack4Sec.Net.exe
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\ORJ\sistem izleme\WindowsApplication14\bin\Debug\Red Squirrel - Hack4Sec.Net.pdb
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\ORJ\sistem izleme\WindowsApplication14\bin\Debug\Red Squirrel - Hack4Sec.Net.xml
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\ORJ\sistem izleme\WindowsApplication14\obj\Debug\Red_Squirrel___Hack4Sec.Net.Form1.resources
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\ORJ\sistem izleme\WindowsApplication14\obj\Debug\Red_Squirrel___Hack4Sec.Net.Resources.resources
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\ORJ\sistem izleme\WindowsApplication14\obj\Debug\Red Squirrel - Hack4Sec.Net.vbproj.GenerateResource.Cache
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\ORJ\sistem izleme\WindowsApplication14\obj\Debug\Red Squirrel - Hack4Sec.Net.exe
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\ORJ\sistem izleme\WindowsApplication14\obj\Debug\Red Squirrel - Hack4Sec.Net.xml
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\ORJ\sistem izleme\WindowsApplication14\obj\Debug\Red Squirrel - Hack4Sec.Net.pdb
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\ORJ\Red Squirrel (Hack4Sec) - Sistem İzleme\WindowsApplication14\obj\Debug\Red Squirrel - Hack4Sec.Net.exe
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\ORJ\Red Squirrel (Hack4Sec) - Sistem İzleme\WindowsApplication14\obj\Debug\Red Squirrel - Hack4Sec.Net.xml
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\ORJ\Red Squirrel (Hack4Sec) - Sistem İzleme\WindowsApplication14\obj\Debug\Red Squirrel - Hack4Sec.Net.pdb

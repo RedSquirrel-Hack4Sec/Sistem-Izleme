@@ -1,9 +1,9 @@
 # Sistem-İzleme
 Red Squirrel - Hack4Sec.Net
 
-Forum Konu: http://www.hack4sec.net/forum/showthread.php?t=9<br><br>
+Forum Konu: http://www.hack4sec.net/forum/showthread.php?t=9<br>
 
-Gerekli Olanlar<br><br>
+Gerekli Olanlar<br>
 
 1 Button (btnKlasorSec)<br>
 1 TextBox (tbKlasor)<br>
